@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Huu Thien
 - 👀 I’m interested in mechatronics engineering intern
-- 🌱 I’m currently learning at university
+- 🌱 I’m currently learning at university [UTC2]
 - 📫 Here's my email address: dhthiendp1@gmail.com
 
 <!---
