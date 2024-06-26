@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dhthiendp1/dhthiendp1/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dhthiendp1/workflow/output/snake.svg" alt="Snake animation" />
 
 ###
