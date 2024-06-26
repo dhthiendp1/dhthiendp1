@@ -43,14 +43,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhthiendp1.dhthiendp1&left_color=darkred&right_color=aquamarine"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dhthiendp1/dhthiendp1/output/snake.svg" alt="Snake animation" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dhthiendp1.dhthiendp1&left_color=darkred&right_color=aquamarine"  />
 
 ###
