@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/182920416_1018792475595625_4466564598017716207_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGxyD1Y4hyaFAuhs3hm8cCWrUwbOfFzmiGtTBs58XOaIagANkmmo7c2MsevhhKwAIetzV6i8x_yQ_nZuaID5XyH&_nc_ohc=517cyYU9LooQ7kNvgE9TYna&_nc_ht=scontent-hkg4-1.xx&oh=00_AYDVEF2Nh0MaYFDI5SJDnC36H0rQq5iKqvj72OkzCxFtPw&oe=66816AF4"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -41,6 +37,14 @@
   <a href="https://www.linkedin.com/in/dhthiendp1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="28" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhthiendp1.dhthiendp1&left_color=darkred&right_color=aquamarine"  />
 </div>
 
 ###
